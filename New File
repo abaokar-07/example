@@ -1,0 +1,2 @@
+abc = 'New file created'
+print (abc)
