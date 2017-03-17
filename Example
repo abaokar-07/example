@@ -1,2 +1,3 @@
 x = 'This is an example line to check the working of pull requests and merging.'
 print(x)
+print("It's correct")
